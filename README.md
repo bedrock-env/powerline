@@ -1,4 +1,4 @@
-# powerline
+# powerline (deprecated)
 
 powerline is an extension for the [bedrock](https://github.com/bedrock-env/ack)
 project to provide powerline-status in the bedrock environment.
